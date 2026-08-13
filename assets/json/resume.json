@@ -141,11 +141,10 @@
   ],
   "certificates": [
     { "name": "Anzisha Prize FAST Build Certification" },
-    { "name": "Energy and Flexibility Modeling" },
+    { "name": "Energy and Flexibility Modeling - OSeMOSYS" },
     { "name": "Automated Financial Reporting with AI" },
-    { "name": "Introduction to Project Finance" },
-    { "name": "An Introduction to AI and Sustainability" }
-  ],
+    { "name": "Project Finance Certification - WSP" }
+      ],
   "skills": [
     {
       "name": "Energy & finance",
