@@ -18,13 +18,41 @@ social: true # includes social icons at the bottom of the page
 announcements:
   enabled: true # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit:  # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+<style>
+/* Make the line under my name more prominent */
+.post-header .desc {
+  font-size: 1.2rem;
+  line-height: 1.5;
+}
+
+/* Centre the location directly underneath the photograph */
+.profile .more-info {
+  width: 100%;
+  text-align: center;
+  margin-top: 0.75rem;
+}
+
+.profile .more-info p {
+  display: block;
+  width: 100%;
+  text-align: center;
+  margin: 0;
+}
+
+/* Lift the photograph so its top aligns better with the intro */
+@media (min-width: 576px) {
+  .profile.float-right {
+    margin-top: -2.25rem;
+  }
+}
+</style>
 
 I'm a guy from Kambuzuma, Harare, trying to change my corner of the world.
 
