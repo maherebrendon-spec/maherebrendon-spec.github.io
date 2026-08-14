@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ventures
+title: projects
 permalink: /projects/
 description: A growing collection of my side quests
 nav: true
