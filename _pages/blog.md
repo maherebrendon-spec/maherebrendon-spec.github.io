@@ -1,5 +1,6 @@
 ---
 layout: default
+redirect: https://medium.com/@maherebrendon
 permalink: /blog/
 title: blog
 nav: true
