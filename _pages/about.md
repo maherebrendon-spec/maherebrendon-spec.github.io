@@ -28,10 +28,16 @@ latest_posts:
 <style>
 /* Make the line under my name more prominent */
 .post-header .desc {
-  font-size: 1.2rem;
+  font-size: 1rem;
   line-height: 1.5;
 }
-
+  
+@media (min-width: 576px) {
+  .post-header .desc {
+    width: 68%;
+  }
+}
+  
 /* Centre the location directly underneath the photograph */
 .profile .more-info {
   width: 100%;
