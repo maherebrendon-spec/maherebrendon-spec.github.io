@@ -4,7 +4,7 @@
 
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Brendon
-middle_name: M.
+middle_name: M
 last_name: Mahere
 contact_note: >
   Email is the best way to reach me.
@@ -97,7 +97,7 @@ al_folio:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 posts_in_search: true
 bib_search: true
