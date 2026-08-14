@@ -9,7 +9,7 @@ profile:
   image: prof_pic.JPG
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p><i class="fa-solid fa-location-dot"></i> Oxford, United Kingdom</p>
+    <p><i class="fa-solid fa-location-dot"></i> United Kingdom</p>
     
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
