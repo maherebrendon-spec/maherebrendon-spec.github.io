@@ -3,7 +3,7 @@ layout: null
 permalink: /blog/
 title: blog
 nav: true
-nav_order: 1
+nav_order: 3
 redirect_to: https://medium.com/@maherebrendon
 ---
 <!DOCTYPE html>
