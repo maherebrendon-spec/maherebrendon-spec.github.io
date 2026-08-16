@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Working toward an Africa where everyone has access to clean, affordable and reliable energy.
+subtitle: Working toward an World where everyone has access to clean, affordable and reliable energy.
 
 profile:
   align: right
@@ -131,6 +131,7 @@ body {
 
 
 I'm a guy from Kambuzuma, Harare, trying to change my corner of the world.
+
 
 My work sits at the intersection of energy, finance, technology and development, with a particular interest in how we can build and finance the infrastructure Africa needs to prosper. I've worked across renewable energy project development, climate and energy research, strategy, technology and entrepreneurship, and I'm especially interested in turning ambitious ideas into things that work in the real world.
 
