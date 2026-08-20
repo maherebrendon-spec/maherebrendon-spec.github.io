@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Working toward a world where everyone has access to clean, affordable and reliable energy.
+subtitle: Working towards a world where everyone has access to clean, affordable and reliable energy.
 
 profile:
   align: right
