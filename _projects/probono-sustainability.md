@@ -7,6 +7,6 @@ importance: 3
 category: work
 ---
 
-Alongside my paid work, I take on pro bono sustainability consulting for organisations doing meaningful work but without the budget for it — helping them think through strategy, energy, and impact.
+I take on pro bono sustainability consulting for NGOs doing meaningful work but without the budget for it — helping them think through strategy, outreach, and impact.
 
-It's a way to put what I do to use where it matters most, and to stay close to problems on the ground.
+It's a way to put what I've learned to use where it matters most, and to stay close to problems on the ground. Get in touch to request my services!
