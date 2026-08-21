@@ -30,7 +30,14 @@ latest_posts:
 /* -------------------------------------------------
    HOMEPAGE LAYOUT
 -------------------------------------------------- */
+/* Drop the name + tagline to align vertically with the portrait */
+@media (min-width: 768px) {
+  .post-header {
+    transform: translateY(9rem);
+  }
+}
 
+  
 /* Keep the tagline compact and balanced with the portrait */
 .post-header .desc {
   font-size: 1rem;
