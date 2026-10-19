@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Working towards a world where everyone has access to clean, affordable and reliable energy.
+subtitle: Sustainable infrastructure development advocacy, strategy and innovation.
 
 profile:
   align: right
@@ -43,6 +43,7 @@ latest_posts:
   font-size: 1rem;
   line-height: 1.5;
   max-width: 720px;
+  text-align: center;
 }
 
 @media (min-width: 768px) {
