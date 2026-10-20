@@ -38,18 +38,16 @@ latest_posts:
 }
 
   
-/* Keep the tagline compact and balanced with the portrait */
+/* Match the headline's measure to the name above it.
+   Centre within the same left-aligned block rather than across the page. */
 .post-header .desc {
-  font-size: 1rem;
+  font-size: 0.9rem;
   line-height: 1.5;
-  max-width: 720px;
+  width: min(100%, 44rem);
+  max-width: 100%;
   text-align: center;
-}
-
-@media (min-width: 768px) {
-  .post-header .desc {
-    width: 62%;
-  }
+  margin-left: 0;
+  margin-right: 0;
 }
 
 
