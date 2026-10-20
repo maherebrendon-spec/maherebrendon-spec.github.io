@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Sustainable infrastructure development advocacy, strategy and innovation.
+subtitle: Sustainable infrastructure development advocacy, strategy and innovation
 
 profile:
   align: right
