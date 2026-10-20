@@ -38,14 +38,13 @@ latest_posts:
 }
 
   
-/* Match the headline's measure to the name above it.
-   Centre within the same left-aligned block rather than across the page. */
+/* Align the tagline's left edge with the name above it. */
 .post-header .desc {
-  font-size: 0.9rem;
+  font-size: 1rem;
   line-height: 1.5;
-  width: min(100%, 44rem);
-  max-width: 100%;
-  text-align: center;
+  width: auto;
+  max-width: none;
+  text-align: left;
   margin-left: 0;
   margin-right: 0;
 }
