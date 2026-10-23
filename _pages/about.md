@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Sustainable infrastructure development advocacy, strategy and innovation
+subtitle: Energy projects by day. Side quests by night
 
 profile:
   align: right
