@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Energy projects by day. Side quests by night
+subtitle: Energy projects by day-Building cool stuff by night
 
 profile:
   align: right
