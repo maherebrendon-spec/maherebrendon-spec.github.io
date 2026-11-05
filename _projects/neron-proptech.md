@@ -9,4 +9,4 @@ category: work
 
 My first startup, Neron PropTech set out to open up property ownership to the Zimbabwean diaspora, letting people abroad buy fractional shares of renovated rental homes in high-density suburbs — turning remittances into real, income-generating assets back home.
 
-The company is no longer operating, but the problem it tackled — connecting diaspora capital to housing and opportunity at home — is one I still care about, and much of what I learned building it feeds directly into my work today.
+I’ve since exited the company, but the problem it tackled (connecting diaspora capital to housing and opportunity at home) is one I still care deeply about, and what I learned building it shapes my work today.
