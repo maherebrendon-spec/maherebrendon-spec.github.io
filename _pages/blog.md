@@ -16,6 +16,9 @@ description: Weekly reflections on the ideas, places and experiences shaping my 
     {% assign parts = filename | split: '-' %}
     {% assign published_on = parts | slice: 0, 3 | join: '-' %}
     {% assign reflection_title = parts | slice: 3, 100 | join: ' ' | replace: '_', ' ' %}
+    {% if filename == "2026-11-14-Make-Africa-Machine-Readable" %}
+      {% assign reflection_title = "Make Africa Machine-Readable" %}
+    {% endif %}
     <li>
       <time datetime="{{ published_on }}">{{ published_on | date: "%-d %B %Y" }}</time>
       <a href="{{ reflection.path | relative_url }}" target="_blank" rel="noopener noreferrer">
