@@ -4,7 +4,7 @@ permalink: /reflections/
 title: reflections
 nav: true
 nav_order: 3
-description: Weekly reflections on the ideas, places and experiences shaping my thinking.
+description: Occasional reflections on the ideas, places and experiences shaping my thinking.
 ---
 
 {% assign reflection_pdfs = site.static_files | where_exp: "file", "file.path contains '/assets/pdf/reflections/'" | where_exp: "file", "file.extname == '.pdf'" | sort: "name" | reverse %}
